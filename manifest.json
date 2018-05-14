@@ -1,8 +1,8 @@
 
 {
-    "name": "> dev-search",
-    "description": "Type 'nt' plus a search term into the Omnibox to open search in new tab.",
-    "version": "1.0",
+    "name": "dev-search",
+    "description": "Search prefixes for lazy developers, type ds + Tab in your search box and watch the magic.",
+    "version": "1.2",
     "background": {
       "scripts": ["background.js"],
       "persistent": false
